@@ -65,7 +65,7 @@ section {
 #about {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    padding-left: 250px;
+    padding-left: 50px;
 }
 
 
@@ -146,3 +146,4 @@ textarea {
     background: #333;
 
 }
+
