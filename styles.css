@@ -69,22 +69,7 @@ section {
 }
 
 
-#about img {
-    width: 400px;
-    border-radius: 50%;
-    display: block;
-    margin-bottom: 15px;
-}
 
-#about p {
-    text-align: justify;
-    font-size: 17.6px;
-    text-indent: 2em;
-}
-
-#about h2 {
-    font-size: 27px;
-}
 
 #skills ul {
     display: flex;
@@ -145,3 +130,4 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
