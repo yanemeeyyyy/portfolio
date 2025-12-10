@@ -64,7 +64,7 @@ section {
 
 #about {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
 
 
@@ -129,5 +129,6 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
