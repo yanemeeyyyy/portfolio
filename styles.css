@@ -64,7 +64,8 @@ section {
 
 #about {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 450px;
 }
 
 
@@ -143,15 +144,4 @@ textarea {
 
 #home-icon:hover {
     background: #333;
-
 }
-
-
-
-
-
-
-
-
-
-
