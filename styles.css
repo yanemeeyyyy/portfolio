@@ -72,6 +72,7 @@ section {
 
 #about p {
     text-align: justify;
+    text-indent: 20px;
 }
 
 .project h3 a {
@@ -147,6 +148,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
