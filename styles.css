@@ -64,7 +64,10 @@ section {
 
 #about {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    gap: 3rem;
+    max-width: 1100px;
 }
 
 .project h3 a {
@@ -140,6 +143,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
