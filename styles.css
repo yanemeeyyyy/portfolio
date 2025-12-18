@@ -67,7 +67,7 @@ section {
     grid-template-columns: repeat(4, 1fr);
 }
 
-.project h3 a, .recommendation a {
+.project h3 a {
     text-decoration: none;
     color: black;
 }
@@ -110,6 +110,11 @@ section {
     border-radius: 5px;
 }
 
+#trainings-and-workshops .recommendation a {
+    text-decoration: none;
+    color: black;
+}
+
 textarea {
     width: 100%;
     padding: 10px;
@@ -131,6 +136,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
