@@ -67,7 +67,10 @@ section {
     grid-template-columns: repeat(4, 1fr);
 }
 
-
+h3 a {
+    text-decoration: none;
+    color: black;
+}
 
 
 #skills ul {
@@ -129,6 +132,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
