@@ -76,10 +76,10 @@ section {
 }
 
 #about img {
-    width: 300px;
-    height: 300px;
+    width: 310px;
+    height: 310px;
     border-radius: 50%;
-    border: 10px solid black;
+    border: 6px solid black;
     object-fit: cover;
 }
 
@@ -156,6 +156,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
