@@ -72,6 +72,10 @@ section {
     color: black;
 }
 
+.project h3 a:hover {
+    background-color: black;
+    color: white;
+}
 
 #skills ul {
     display: flex;
@@ -136,6 +140,7 @@ textarea {
 #home-icon:hover {
     background: #333;
 }
+
 
 
 
